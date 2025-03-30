@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Company>
+    <Employee>
+        <Name>John Doe</Name>
+        <Position>Software Engineer</Position>
+        <Salary>80000</Salary>
+    </Employee>
+    <Employee>
+        <Name>Jane Smith</Name>
+        <Position>Project Manager</Position>
+        <Salary>95000</Salary>
+    </Employee>
+    <Employee>
+        <Name>Emily Johnson</Name>
+        <Position>Data Analyst</Position>
+        <Salary>70000</Salary>
+    </Employee>
+</Company>

@@ -1,0 +1,15 @@
+-XML: eXtensible Markup Language
+-xml is used to store and transfer the data over internet
+-to store data in xml file we have to use tags , like we use in html but here tags are user defined
+-all opening tags must be closed
+-closing tags must fully match with the opening tags
+-there must be only 1 root element
+-after minimisation the whole document can be converted into one element
+-XML declaration:
+    <?xml version="1.0" encoding="UTF-8"?>
+-Difference between XML and html
+            XML                                                   HTML
+    in xml the tags are user defined                 the tags are pre-defined
+    each opening tag must have a closing tag         some tags dont have closing tag example: <br>
+    tags are case sensitive                          tags are not case sensitive ie. we can write <body> and <BODY> both are fine
+    used for storing and transfer the data           used for display of the web page

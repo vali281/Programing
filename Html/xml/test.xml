@@ -1,0 +1,12 @@
+<library>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>20.99</price>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <price>15.50</price>
+    </book>
+</library>
